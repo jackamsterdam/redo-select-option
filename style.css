@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+}
+
+input,
+select {
+    font-size: 16px;
+}
+
+
+/* There is some debate whether it is good practice to style links as buttons. Some will argue that links should always look like links and buttons should look like buttons. */
+
+.calculate-btn {
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
+.calculate-btn:hover {
+    background-color: #223094;
+}
